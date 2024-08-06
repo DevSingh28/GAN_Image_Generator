@@ -21,7 +21,7 @@ To run this project, you need to have the following installed:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/cat-images-gan.git
+    https://github.com/DevSingh28/GAN_Image_Generator.git
     cd cat-images-gan
     ```
 
